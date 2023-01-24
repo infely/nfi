@@ -141,7 +141,7 @@ csstype@^3.0.2:
   resolved "https://registry.yarnpkg.com/csstype/-/csstype-3.1.1.tgz#841b532c45c758ee546a11d5bd7b7b473c8c30b9"
   integrity sha512-DJR/VvkAvSZW9bTouZue2sSxDwdTN92uHjqeKVm+0dAqdfNykRzQ95tay8aXMBAAPpUiq4Qcug2L7neoRh2Egw==
 
-esbuild@^0.17.3:
+esbuild@^0.17.4:
   version "0.17.4"
   resolved "https://registry.yarnpkg.com/esbuild/-/esbuild-0.17.4.tgz#af4f8f78604c67f8e6afbdee36a3f4211ecfc859"
   integrity sha512-zBn9MeCwT7W5F1a3lXClD61ip6vQM+H8Msb0w8zMT4ZKBpDg+rFAraNyWCDelB/2L6M3g6AXHPnsyvjMFnxtFw==
@@ -181,12 +181,12 @@ loose-envify@^1.1.0:
   dependencies:
     js-tokens "^3.0.0 || ^4.0.0"
 
-react-curse@^1.0.5:
-  version "1.0.5"
-  resolved "https://registry.yarnpkg.com/react-curse/-/react-curse-1.0.5.tgz#f880d5bdb7db0687c07d34a88f770957365c3229"
-  integrity sha512-XfIryy0/xzbsFCoTCFj0jL4HpomM8p6KX76heaLEqaTPn5axsErGk7cTAeY9JKcFUSiyM/68bFLJsXSg1Uf0yw==
+react-curse@^1.0.7:
+  version "1.0.7"
+  resolved "https://registry.yarnpkg.com/react-curse/-/react-curse-1.0.7.tgz#935662967201751015366b500618d3bb1d425a0e"
+  integrity sha512-CTfRGZbA3O/3JG71ko9J5TaMgInQpWz5LJYTfic5+lPsuusI517QFvnVLbpynM27nih4eoeJfyN4tQS71AP5VQ==
   dependencies:
-    esbuild "^0.17.3"
+    esbuild "^0.17.4"
     react "^18.2.0"
     react-reconciler "^0.29.0"
 

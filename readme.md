@@ -4,7 +4,13 @@ Simple nerd fonts icons cheat sheet that allows you to quickly find and copy gly
 
 ![](media/demo.gif)
 
-## Install
+## Try
+
+```bash
+npx nfi
+```
+
+## Installation
 
 ```bash
 npm i -g nfi
